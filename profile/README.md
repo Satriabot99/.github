@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 <p align='center'>
 <a href="https://api.daily.dev/get?r=Satriabot"><img height="200" src="https://raw.githubusercontent.com/tahaluindo/tahaluindo/main/root.svg"></a>
 <p align='center'>  I'm Satria Pamungkas (17 y.o) ! :sunglasses: </p>
-<img width="800px" src="https://www.mediafire.com/file/5lxigw8xsykngzn/20220718_121220.gif" />
+<img width="800px" src="https://download1334.mediafire.com/beu92rsfmvsg/5lxigw8xsykngzn/20220718_121220.gif" />
 <p align='center'> I want to do a project related to bots to make it easier for users. :ghost: </p>
 </p>
 ![Profil Me](https://github.com/satriabot)
