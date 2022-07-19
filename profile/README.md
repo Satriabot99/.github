@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 <p align='center'><a href="https://www.dmca.com/Protection/Status.aspx?ID=090f6134-5e5e-46fd-a879-b366b9a65060&refurl=https://github.com/satriabot" target="_blank" title="Check Protection Status" class="dmca-badge"> <img src ="https://telegra.ph/file/fc29daf49c1f6d2748595.jpg?st=2019-03-02T00%3A22%3A29Z&se=2028-03-03T00%3A22%3A00Z&sp=rw&sv=2018-03-28&sr=c&sig=5uj40e0WkJN4jO9efLP3CKvstLnc2LG%2BqWfMC6U4Ou0%3D" alt="DMCA.com for Github" /></a></p>
 <a href="https://api.daily.dev/get?r=Satriabot99"><img src="https://opencollective.com/vuejs/contributors.svg?width=900" /></a>
 <p align='center'>
-<a href="https://api.daily.dev/get?r=Satriabot"><img height="200" src="https://raw.githubusercontent.com/tahaluindo/tahaluindo/main/root.svg"></a>
+<a href="https://api.daily.dev/get?r=Satriabot"><img height="200" src="https://telegra.ph/file/42d9fa6445e9b1593afbc.jpg"></a>
 <p align='center'>  I'm Satria Pamungkas (17 y.o) ! :sunglasses: </p>
 <img width="800px" src="https://download1334.mediafire.com/beu92rsfmvsg/5lxigw8xsykngzn/20220718_121220.gif" />
 <p align='center'> I want to do a project related to bots to make it easier for users. :ghost: </p>
