@@ -39,7 +39,7 @@ You can click the Preview link to take a look at your changes.
 <details>
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
 
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=Satriabot99)
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=tahaluindo)
 
 </details> 
 :page_with_curl: I'm currently learning:
