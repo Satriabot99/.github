@@ -34,7 +34,7 @@ You can click the Preview link to take a look at your changes.
   <img src="https://komarev.com/ghpvc/?username=Satriabot99&label=VIEWS&style=flat-square&color=blue" />
 </p>
 <p align='center'>
-   <a href="https://github.com/satriabot99"><img height="100" src="https://telegra.ph/file/634c2f4b9ac6223e2ba4a.jpg"></a></p>
+   <a href="https://github.com/satriabot"><img height="100" src="https://telegra.ph/file/634c2f4b9ac6223e2ba4a.jpg"></a></p>
 <p align='center'>
 <details>
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
