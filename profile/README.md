@@ -34,12 +34,12 @@ You can click the Preview link to take a look at your changes.
   <img src="https://komarev.com/ghpvc/?username=Satriabot99&label=VIEWS&style=flat-square&color=blue" />
 </p>
 <p align='center'>
-   <a href="https://www.facebook.com/ciciyber.squadindo.7"><img height="100" src="https://raw.githubusercontent.com/satriabot/satriabot99/64478fa6dc44f9aa505ca49d384375946107db89/speed.svg"></a></p>
+   <a href="https://www.facebook.com/ciciyber.squadindo.7"><img height="100" src="https://im2.ezgif.com/tmp/ezgif-2-c016947eff.png"></a></p>
 <p align='center'>
 <details>
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
 
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=satriabot)
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=Satriabot99)
 
 </details> 
 :page_with_curl: I'm currently learning:
