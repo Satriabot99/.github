@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
     <summary>Hai...<b></b></summary><br/>
 <p align='center'><a href="https://api.daily.dev/get?r=Satriabot"><img src="https://telegra.ph/file/c4b65a881f6a95599d39d.jpg?r=82s" width="200" alt="Satriabot"/></a></p>
 
-![Satriabot Team card name](https://cardivo.vercel.app/api?name=Satriabot%2099&description=Hi,%20i%27m%20a%20front%20end%20web%20developer%20and%20i%27m%2020%20y.o.%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://telegra.ph/file/34c19b0095835a1e114fb.jpg?v=4&backgroundColor=%23ecf0f1&instagram=satriabot99&linkedin=Satriabot Indonesia&github=Satriabot99&twitter=satriabot99bot&pattern=leaf&colorPattern=%23eaeaea)
+![Satriabot Team card name](https://cardivo.vercel.app/api?name=Satriabot%2099&description=Hi,%20i%27m%20a%20front%20end%20web%20developer%20and%20i%27m%2020%20y.o.%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://telegra.ph/file/34c19b0095835a1e114fb.jpg?v=4&backgroundColor=%23ecf0f1&instagram=satriabot99&linkedin=Satriabot% Indonesia&github=Satriabot99&twitter=satriabot99bot&pattern=leaf&colorPattern=%23eaeaea)
 
 
 </details>
