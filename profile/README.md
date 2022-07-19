@@ -53,7 +53,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 <details>
 :star: Here are some projects that I'm working on:
-<p align='center'><a href="https://api.daily.dev/get?r=Satriabot"><img src="https://telegra.ph/file/1262431c0967ddfb566b2.png?r=82s" width="150" alt="LulzGhost-Team BOT's Dev Card"/></a></p>
+<p align='center'><a href="https://api.daily.dev/get?r=Satriabot"><img src="https://telegra.ph/file/c4b65a881f6a95599d39d.jpg?r=82s" width="150" alt="LulzGhost-Team BOT's Dev Card"/></a></p>
 
 ## Start
 <!--START_SECTION:waka-->
