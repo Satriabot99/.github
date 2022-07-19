@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
 <p align='center'>
 <a href="https://api.daily.dev/get?r=Satriabot"><img height="200" src="https://telegra.ph/file/42d9fa6445e9b1593afbc.jpg"></a>
 <p align='center'>  I'm Satria Pamungkas (17 y.o) ! :sunglasses: </p>
-<img width="800px" src="https://download1334.mediafire.com/beu92rsfmvsg/5lxigw8xsykngzn/20220718_121220.gif" />
+<img width="800px" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
 <p align='center'> I want to do a project related to bots to make it easier for users. :ghost: </p>
 </p>
 ![Profil Me](https://github.com/satriabot)
@@ -34,7 +34,7 @@ You can click the Preview link to take a look at your changes.
   <img src="https://komarev.com/ghpvc/?username=Satriabot99&label=VIEWS&style=flat-square&color=blue" />
 </p>
 <p align='center'>
-   <a href="https://www.facebook.com/ciciyber.squadindo.7"><img height="100" src="https://im2.ezgif.com/tmp/ezgif-2-c016947eff.png"></a></p>
+   <a href="https://www.facebook.com/ciciyber.squadindo.7"><img height="100" src="https://raw.githubusercontent.com/tahaluindo/tahaluindo/64478fa6dc44f9aa505ca49d384375946107db89/speed.svg"></a></p>
 <p align='center'>
 <details>
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
