@@ -26,7 +26,7 @@ You can click the Preview link to take a look at your changes.
 <img width="800px" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
 <p align='center'> I want to do a project related to bots to make it easier for users. :ghost: </p>
 </p>
-![Profil Me](https://github.com/satriabot)
+![Follow Github Me](https://github.com/satriabot)
 
 </p>
 </details>
