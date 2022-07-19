@@ -53,12 +53,12 @@ You can click the Preview link to take a look at your changes.
 </p>
 <details>
 :star: Here are some projects that I'm working on:
-<p align='center'><a href="https://api.daily.dev/get?r=Satriabot"><img src="https://telegra.ph/file/c4b65a881f6a95599d39d.jpg?r=82s" width="150" alt="LulzGhost-Team BOT's Dev Card"/></a></p>
+<p align='center'><a href="https://api.daily.dev/get?r=Satriabot"><img src="https://telegra.ph/file/c4b65a881f6a95599d39d.jpg?r=82s" width="150" alt="Satriabot"/></a></p>
 
 ## Start
 <!--START_SECTION:waka-->
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Satriabot99&theme=onedark" />
+<img src="https://github-profile-trophy.vercel.app/?username=tahaluindo&theme=onedark" />
 <p align="center" height='130px'> <img src="https://github-readme-stats.vercel.app/api?username=Satriabot99&show_icons=true&hide_title=true&include_all_commits=true&line_height=21&bg_color=0,64FFDA,64FFDA,A9EFDE,F2FFFC&count_public=true&theme=graywhite" alt="crazychickendev"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahaluindo&layout=compact&show_icons=true&bg_color=0,EFFDF9,CBFFF3,64FFDA&theme=graywhite&hide_title=true" alt="root"/> </p>
 </p>
 <p align="center">
