@@ -1,15 +1,15 @@
 <!---
-satriabot99/satriabot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+DikaaOfc/FanxxzBOT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Welcome+to+Satriabot" />
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Welcome+to+DikaaOfc" />
 </p>
 <details>
     <summary>Hai...<b></b></summary><br/>
-<p align='center'><a href="https://api.daily.dev/get?r=Satriabot"><img src="https://telegra.ph/file/c4b65a881f6a95599d39d.jpg?r=82s" width="200" alt="Dikaa"/></a></p>
+<p align='center'><a href="https://api.daily.dev/get?r=FanxxzBOT"><img src="https://telegra.ph/file/c4b65a881f6a95599d39d.jpg?r=82s" width="200" alt="Dikaa"/></a></p>
 
-![Satriabot Team card name](https://cardivo.vercel.app/api?name=Satriabot%2099&description=Hi,%20i%27m%20a%20front%20end%20web%20developer%20and%20i%27m%2017%20y.o.%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://telegra.ph/file/34c19b0095835a1e114fb.jpg?v=4&backgroundColor=%23ecf0f1&instagram=satriabot99&linkedin=SatriabotTeam&github=Satriabot99&twitter=satriabot99&pattern=leaf&colorPattern=%23eaeaea)
+![Satriabot Team card name](https://cardivo.vercel.app/api?name=Satriabot%2099&description=Hi,%20i%27m%20a%20front%20end%20web%20developer%20and%20i%27m%2017%20y.o.%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://telegra.ph/file/34c19b0095835a1e114fb.jpg?v=4&backgroundColor=%23ecf0f1&instagram=Cigegerotak&linkedin=DikaaOfc&github=Bisnisokteto99&twitter=Dikaofc&pattern=leaf&colorPattern=%23eaeaea)
 
 
 </details>
